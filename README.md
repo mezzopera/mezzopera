@@ -1,4 +1,5 @@
-- 👋 Hi, I’m mezzo
-- 👀 I’m interested in lua, py , c++
-- 🌱 I’m currently learning c#
-- 📫 Reach me on discord: @mezzopera
+print("Hello, World!")
+I'm mezzo
+A kid with dreams
+
+dsc: mezzo.h
