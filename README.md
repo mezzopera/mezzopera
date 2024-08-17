@@ -1,4 +1,5 @@
 .gg/omenhub
 
-dsc: mezzopera
+shits for fun not for money
 
+mezzopera on discord
