@@ -1,5 +1,5 @@
-.gg/omenhub
+.gg/omenhub - not working noobs 
 
 shits for fun not for money
 
-mezzopera on discord
+getomen.lol on discord
